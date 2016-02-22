@@ -1,0 +1,11 @@
+{
+  "name": "pbi-glimpse",
+  "version": "0.0.21",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "socket.io": "^1.4.5"
+  },
+  "main": "./index"
+}
