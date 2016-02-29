@@ -5,7 +5,7 @@ export interface IHost {
 
 export interface IViewport{
     height: number;
-    widht: number;
+    width: number;
 }
 
 export interface ConstructorOptions{
